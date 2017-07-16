@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SteelWheelsCube", "SteelWheelsCube\SteelWheelsCube.dwproj", "{19F770B2-DD3F-4453-9211-8A9574A9772E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F770B2-DD3F-4453-9211-8A9574A9772E}.Development|Default.ActiveCfg = Development
+		{19F770B2-DD3F-4453-9211-8A9574A9772E}.Development|Default.Build.0 = Development
+		{19F770B2-DD3F-4453-9211-8A9574A9772E}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
